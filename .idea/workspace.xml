@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa4ca7bc-c2a9-4dae-9f90-88e8f1c68803" name="Changes" comment="gitignore test Commit">
-      <change afterPath="$PROJECT_DIR$/src/apiKey.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gadv/AluraChallengeConversor/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gadv/AluraChallengeConversor/modules/ConverterAPIConsult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AluraChallengeConversor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AluraChallengeConversor.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +70,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729107813545</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore test Commit">
+      <option name="closed" value="true" />
+      <created>1729108648635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729108648635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore test Commit">
+      <option name="closed" value="true" />
+      <created>1729108787509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729108787509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitignore test Commit">
+      <option name="closed" value="true" />
+      <created>1729108815086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729108815086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
