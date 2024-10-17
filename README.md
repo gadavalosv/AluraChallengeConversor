@@ -11,12 +11,12 @@ Este proyecto es un conversor de divisas desarrollado como parte de un challenge
 
 ## Monedas Soportadas
 
-- ARS - Peso argentino
-- BOB - Boliviano boliviano
-- BRL - Real brasileño
-- CLP - Peso chileno
-- COP - Peso colombiano
-- USD - Dólar estadounidense
+- `ARS` - Peso argentino
+- `BOB` - Boliviano boliviano
+- `BRL` - Real brasileño
+- `CLP` - Peso chileno
+- `COP` - Peso colombiano
+- `USD` - Dólar estadounidense
 
 ## Tecnologías Utilizadas
 
@@ -28,7 +28,7 @@ Este proyecto es un conversor de divisas desarrollado como parte de un challenge
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/conversor-divisas.git
+   git clone https://github.com/gadavalosv/AluraChallengeConversor.git
    ```
 2. Asegúrate de tener una API Key válida para la API ExchangeRate. Coloca la clave en un archivo `apiKey.txt` en la raíz del proyecto.
 3. Compila y ejecuta el proyecto con tu entorno de desarrollo favorito.
